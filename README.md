@@ -14,6 +14,7 @@ The purpose of this module was to use Tableau to create compelling data stories 
 ![Trips_Week](Data_vize/Trips_by_Weekday_for_Each_Hour.png)
 
 - Similar as mentioned above, during that same period, Men are the heavy users for the bikes during the even rush commute for the same days
+![Trips_Gender](Data_vize/Trips_by_Gender_Weekday_per_Hour.png)
 
 - Males tend to be subscribers to the service as opposed to just standard customers. The busiest day again appears to be Thursday
 
