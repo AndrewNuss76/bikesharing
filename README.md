@@ -29,3 +29,6 @@ The purpose of this module was to use Tableau to create compelling data stories 
 ## Summary
 
 In conclusion, the bike sharing service is heavily used in what appears to be commute to and from work. Of the users for the serivce, Males tend to be the biggest users of the service. Using the data that we have, there are 2 pieces of information I would look into. The first would be understanding the radius of the distance covered for the bikes. It could help with understanding where locations need to be. Additionally, based on the location of the service, you could identify which service locations are use overall.
+
+### Access dashboard used to create these visualizations (link below)
+https://public.tableau.com/profile/andrew.nuss#!/vizhome/Module_14_Citibike_Analysis/Citibike_Analysis_Module14?publish=yes
