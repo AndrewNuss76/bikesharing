@@ -19,12 +19,13 @@ The purpose of this module was to use Tableau to create compelling data stories 
 - Males tend to be subscribers to the service as opposed to just standard customers. The busiest day again appears to be Thursday
 ![Weekday_Gender](Data_vize/User_Trips_Gender_Weekday.png)
 
+
 - Of the 2.3M trips, Males took approx 1.5M trips using the service
 ![Gender_Breakdown](Data_vize/Gender_Breakdown.png)
 
 - The top starting locations for the bike service appears to be lower NYC.
-
+![Starting_Locations](Data_vize/Top_Starting_Locations.png)
 
 ## Summary
 
-In conclusion, There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+In conclusion, the bike sharing service is heavily used in what appears to be commute to and from work. Of the users for the serivce, Males tend to be the biggest users of the service. Using the data that we have, there are 2 pieces of information I would look into. The first would be understanding the radius of the distance covered for the bikes. It could help with understanding where locations need to be. Additionally, based on the location of the service, you could identify which service locations are use overall.
