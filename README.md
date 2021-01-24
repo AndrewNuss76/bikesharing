@@ -20,6 +20,7 @@ The purpose of this module was to use Tableau to create compelling data stories 
 ![Weekday_Gender](Data_vize/User_Trips_Gender_Weekday.png)
 
 - Of the 2.3M trips, Males took approx 1.5M trips using the service
+![Gender_Breakdown](Data_vize/Gender_Breakdown.png)
 
 - The top starting locations for the bike service appears to be lower NYC.
 
