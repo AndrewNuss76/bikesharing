@@ -8,6 +8,7 @@ The purpose of this module was to use Tableau to create compelling data stories 
 ![Checkout_Times](Data_vize/Checkout_Times_for_Users.png)
 
 - Males far outpace females when it comes to checking out bikes. Males roughly check out ~2100 bikes during the same time period mentioned above
+![Checkout_Gender](Data_vize/Checout_Times_by_Gender.png)
 
 - Mon, Tue, and Thurs are the busiest days for renting the bikes, specifically during the 5-6 pm hours which makes sense to accomodate for evening commute from work
 
