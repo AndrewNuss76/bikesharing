@@ -17,6 +17,7 @@ The purpose of this module was to use Tableau to create compelling data stories 
 ![Trips_Gender](Data_vize/Trips_by_Gender_Weekday_per_Hour.png)
 
 - Males tend to be subscribers to the service as opposed to just standard customers. The busiest day again appears to be Thursday
+![Weekday_Gender](Data_vize/User_Trips_Gender_Weekday.png)
 
 - Of the 2.3M trips, Males took approx 1.5M trips using the service
 
